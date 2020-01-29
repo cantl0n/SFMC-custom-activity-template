@@ -4,7 +4,7 @@
     {
         "icon": "images/icon.png",
         "iconSmall": "images/iconSmall.png",
-        "category": "<CATEGORY_OF_APP_BASED_ON_DOCS>"
+        "category": "message"
     },
 
     "type": "REST",
@@ -12,8 +12,8 @@
     {
         "en-US":
         {
-            "name": "<NAME_OF_APP>",
-            "description": "<DESC_OF_APP>",
+            "name": "BC Custom Activity 1",
+            "description": "Activity Description",
             "step1Label": "Configure Activity"
         }
     },
@@ -39,7 +39,7 @@
     
     "configurationArguments":
     {
-        "applicationExtensionKey": "<APP EXTENSION KEY>",
+        "applicationExtensionKey": "cba4b743-bb24-40e5-af4d-53779766d979",
         "save":
         {
             "url": "<HTTPS_URL_OF_APP>/journeybuilder/save",
