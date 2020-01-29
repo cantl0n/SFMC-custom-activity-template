@@ -23,7 +23,7 @@
         {
             "inArguments": [
               { 
-                   "email" : "ben.cantlon@codeworldwide.com"
+                   "contactIdentifier": "{{Contact.Key}}"
               }
             ],
             "outArguments": [],
